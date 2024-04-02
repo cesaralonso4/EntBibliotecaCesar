@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"GestionBiblioteca","c":"Usuario","l":"getEdad()"},{"p":"GestionBiblioteca","c":"Usuario","l":"getNombre()"},{"p":"GestionBiblioteca","c":"Usuario","l":"setEdad(int)"},{"p":"GestionBiblioteca","c":"Usuario","l":"Usuario(String, int)","u":"%3Cinit%3E(java.lang.String,int)"}];updateSearchResults();
